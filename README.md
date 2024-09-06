@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas tardes bem vindo ao meu perfil 🌇
 
-<!--
-**samuelbonitao/samuelbonitao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e samuel aparecido da silva nacimento
 
-Here are some ideas to get you started:
+- estou estudando alura
+- estou desenvovendo linguagem javascript
+- utilizo este espaço para organizar e compartilha meus projetos desenvovidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### vc entra em contato comigo 📫
+
+samuel@gmail.com                       
+
+@samuelaparecido
+
+![](https://media1.tenor.com/m/H8sFCwcrb6UAAAAC/bruh.gif)
